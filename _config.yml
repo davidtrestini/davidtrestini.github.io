@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "David Trestini / Personal webpage"
 title_separator          : "-"
 name                     : &name "David Trestini"
-description              : &description "personal description"
+description              : &description "I'm a postdoc working on gravitational waves"
 url                      : https://davidtrestini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidtrestini/davidtrestini.github.io"
@@ -21,20 +21,20 @@ repository               : "davidtrestini/davidtrestini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "davidtrestini.jpg"
+  name             : "David Trestini"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "My research revolves around prediction gravitational waveforms"
+  location         : "Prague, Czech Republic"
+  employer         : "FZU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "trestini@fzu.cz" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/a/trestini_d_1.html"
+  googlescholar    : "https://scholar.google.com/citations?user=mkvjTKcAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-4140-0591"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "davidtrestini"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "david-trestini"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
