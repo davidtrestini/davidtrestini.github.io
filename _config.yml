@@ -78,8 +78,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Peer-reviewed journal articles'
-    title: 'Preprints'    
+    title: 'Peer-reviewed journal articles' 
   conferences:
     title: 'Conference proceedings'
 
