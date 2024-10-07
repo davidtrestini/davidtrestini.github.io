@@ -16,7 +16,9 @@ Education
 * Diplôme d'ingénieur, École polytechnique, 2020
 
 Work experience
-======
+======  
+* 01/10/2024 - 31/08/2027: Postdoctoral reasearch
+  * University of Southampton
 * 01/10/2023 - 31/08/2024: Postdoctoral reasearch
   * Institute of Physics of the Czech Academy of Sciences
 

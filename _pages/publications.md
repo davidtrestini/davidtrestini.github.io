@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+A PDF version of my publication list can be found below:
+<center><a href="../assets/cv_pdf/publication_list.pdf" download="David_Trestini_publications.pdf"><button class="btn btn--custom">Publication list</button></a></center>
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
