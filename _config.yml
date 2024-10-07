@@ -21,12 +21,12 @@ repository               : "davidtrestini/davidtrestini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "davidtrestini.jpg"
+  avatar           : "images/davidtrestini_1.jpg"
   name             : "David Trestini"
   pronouns         : # example: "she/her"  
   bio              : "My research revolves around prediction gravitational waveforms"
-  location         : "Prague, Czech Republic"
-  employer         : "FZU"
+  location         : "Southampton, UK"
+  employer         : "University of Southampton"
   uri              : # URL
   email            : "trestini@fzu.cz" 
 
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
+  inspire          : "https://inspirehep.net/authors/2018015"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -77,10 +78,14 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Peer-reviewed journal articles' 
+  articles:
+    title: 'Peer-reviewed journal articles'
+  preprints:
+    title: 'Preprints under review' 
   conferences:
     title: 'Conference proceedings'
+  theses:
+    title: "PhD thesis"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
