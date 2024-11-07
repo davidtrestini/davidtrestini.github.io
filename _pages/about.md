@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "David Trestini's homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +8,7 @@ redirect_from:
 
 I am a post-doctoral researcher at the STAG Research Group at the University of Southampton. 
 My CV is downloadable here:
-<center><a href="../files/CV.pdf" download="David_Trestini_CV.pdf"><button class="btn btn--custom">Curriculum vitae</button></a></center><br\>
+<center><a href="../files/CV.pdf" download="David_Trestini_CV.pdf"><button class="btn btn--custom">Curriculum vitae</button></a></center>
 
 # My research
 
