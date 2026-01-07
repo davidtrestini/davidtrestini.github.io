@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at the STAG Research Group at the University of Southampton.  
+I am a post-doctoral researcher at the [STAG Research Group at the University of Southampton](https://www.southampton.ac.uk/people/65d69t/doctor-david-trestini).  
 My CV is downloadable here:  
 <center>
 <a href="../files/CV.pdf" download="David_Trestini_CV.pdf">
@@ -26,4 +26,4 @@ Most of my work uses the post-Newtonian approximation. This consists in assuming
 
 ## Gravitational self force
 
-Recently, I have been interested in waveform modelling within the self-force framework, which is adapted to extreme mass ratio inspirals (EMRIs), which are composed of a primary (massive) black hole of mass $m_1$ and a secondary (light) compact object of mass $m_2$. The viewpoint here is to consider, at leading order, the geodesic trajectory of a test particle around a Schwarschild or Kerr black hole. Since the secondary has a finite mass, it's trajectory deviates from a geodesic due to its *self force* by corrections of order $\epsilon = m_2/m_1$. The self force has both conservative and dissipative contributions. The amplitude of the gravitational waves emitted by such systems are suppressed by the mass ratio, but are still expected to be detectable by LISA. The leading-order contribution to the gravitational waves is called ''adiabatic'' (0PA) and is linked to the dissipative piece of the first-order self force (1SF). The sub-leading order contribution is called ''post-adiabatic'' (1PA) and is much harder to compute: it requires both the conservative 1SF and the dissipative 2SF. 
+Recently, I have been interested in waveform modelling within the self-force framework, which is adapted to extreme mass ratio inspirals (EMRIs), which are composed of a primary (massive) black hole of mass $m_1$ and a secondary (light) compact object of mass $m_2$. The viewpoint here is to consider, at leading order, the geodesic trajectory of a test particle around a Schwarschild or Kerr black hole. Since the secondary has a finite mass, its trajectory deviates from a geodesic due to its *self force* by corrections of order $\epsilon = m_2/m_1$. The self force has both conservative and dissipative contributions. The amplitude of the gravitational waves emitted by such systems are suppressed by the mass ratio, but are still expected to be detectable by LISA. The leading-order contribution to the gravitational waves is called ''adiabatic'' (0PA) and is linked to the dissipative piece of the first-order self force (1SF). The sub-leading order contribution is called ''post-adiabatic'' (1PA) and is much harder to compute: it requires both the conservative 1SF and the dissipative 2SF. 
